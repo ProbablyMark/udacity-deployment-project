@@ -6,7 +6,6 @@ orbs:
     aws-cli: circleci/aws-cli@3.1.1
     # different jobs are calles later in the workflows sections
 jobs:
- 
     build:
         docker:
             # the base image can run most needed actions with orbs
@@ -78,8 +77,6 @@ jobs:
 workflows:
     udagram:
         jobs:
-           
-                  context: aws
             - build
             - hold:
                   filters:
