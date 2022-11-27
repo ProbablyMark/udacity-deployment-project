@@ -72,7 +72,7 @@ jobs:
                       npm run api:install
                       npm run frontend:build
                       npm run api:build
-                      npm run deploy
+                      npm run frontend:deploy
 
 workflows:
     udagram:
