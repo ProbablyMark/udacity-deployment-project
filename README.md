@@ -1,5 +1,22 @@
 hosted app : http://mark-buck2.s3-website-us-east-1.amazonaws.com
 
+app back-end hosted on aws EB enviroment:
+![1](https://user-images.githubusercontent.com/96624005/204115204-828d5330-cd32-454f-9f47-15d4a16a1055.PNG)
+endpoint >> http://app-1.eba-xktr5p2x.us-east-1.elasticbeanstalk.com/
+
+database was hosted on aws RDS :
+![2](https://user-images.githubusercontent.com/96624005/204115238-b84e155c-e816-468f-a7dd-721b5027b75c.PNG)
+endpoint >> postgres.cyxfrrwmdd2j.us-east-1.rds.amazonaws.com
+
+
+pipeline was adminstrated on circleCi:
+![5](https://user-images.githubusercontent.com/96624005/204115281-5e39730e-de54-4637-9457-03648d1a3bd3.PNG)
+![3](https://user-images.githubusercontent.com/96624005/204115283-2881afcb-a0bb-423b-a6d0-8f0c90b2a3b8.PNG)
+![4](https://user-images.githubusercontent.com/96624005/204115284-917e6cc8-55b2-4919-8d4c-0afb3ab1d93f.PNG)
+circleci env variables set up:
+![6](https://user-images.githubusercontent.com/96624005/204115323-da502e60-d006-4b8b-95a2-e3c09c91e6ba.PNG)
+
+
 # Hosting a Full-Stack Application
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
