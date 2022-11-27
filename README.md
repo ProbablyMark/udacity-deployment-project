@@ -10,6 +10,8 @@ endpoint >> postgres.cyxfrrwmdd2j.us-east-1.rds.amazonaws.com
 
 
 pipeline was adminstrated on circleCi:
+jobs in work flow : build >>> deploy >>> end
+
 ![5](https://user-images.githubusercontent.com/96624005/204115281-5e39730e-de54-4637-9457-03648d1a3bd3.PNG)
 ![3](https://user-images.githubusercontent.com/96624005/204115283-2881afcb-a0bb-423b-a6d0-8f0c90b2a3b8.PNG)
 ![4](https://user-images.githubusercontent.com/96624005/204115284-917e6cc8-55b2-4919-8d4c-0afb3ab1d93f.PNG)
