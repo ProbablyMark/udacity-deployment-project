@@ -8,7 +8,6 @@ database was hosted on aws RDS :
 ![2](https://user-images.githubusercontent.com/96624005/204115238-b84e155c-e816-468f-a7dd-721b5027b75c.PNG)
 endpoint >> postgres.cyxfrrwmdd2j.us-east-1.rds.amazonaws.com
 
-
 pipeline was adminstrated on circleCi:
 jobs in work flow : build >>> deploy >>> end
 
@@ -17,7 +16,6 @@ jobs in work flow : build >>> deploy >>> end
 ![4](https://user-images.githubusercontent.com/96624005/204115284-917e6cc8-55b2-4919-8d4c-0afb3ab1d93f.PNG)
 circleci env variables set up:
 ![6](https://user-images.githubusercontent.com/96624005/204115323-da502e60-d006-4b8b-95a2-e3c09c91e6ba.PNG)
-
 
 # Hosting a Full-Stack Application
 
