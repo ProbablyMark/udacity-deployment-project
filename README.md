@@ -17,6 +17,14 @@ jobs in work flow : build >>> deploy >>> end
 circleci env variables set up:
 ![6](https://user-images.githubusercontent.com/96624005/204115323-da502e60-d006-4b8b-95a2-e3c09c91e6ba.PNG)
 
+
+architecture diagram:
+![architecture-diagram](https://user-images.githubusercontent.com/96624005/205311090-192fb828-331f-4c65-8476-5def35dd32f5.png)
+
+pipeline diagram:
+![pipeline-fiagrame](https://user-images.githubusercontent.com/96624005/205311198-614671b0-6fde-41e8-92b1-31a43f68872f.png)
+
+
 # Hosting a Full-Stack Application
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
